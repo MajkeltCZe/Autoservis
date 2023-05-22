@@ -1,0 +1,13 @@
+h3 {
+    height: 50px !important;
+}
+
+img {
+height: auto;
+width: 100%;
+}
+
+footer {
+height: 218px;
+background-color: rgb(232, 232, 232);
+}
